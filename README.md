@@ -1,0 +1,19 @@
+Hasil Modul 3
+Latihan 1
+![alt text](https://raw.githubusercontent.com/ArdiArya/Modul-3-PHP/master/Screenshot%20(147).png)
+Latihan 2
+![alt text](https://raw.githubusercontent.com/ArdiArya/Modul-3-PHP/master/Screenshot%20(148).png)
+Latihan 3
+![alt text](https://raw.githubusercontent.com/ArdiArya/Modul-3-PHP/master/Screenshot%20(149).png)
+Latihan 4
+![alt text](https://raw.githubusercontent.com/ArdiArya/Modul-3-PHP/master/Screenshot%20(150).png)
+Latihan 5
+![alt text](https://raw.githubusercontent.com/ArdiArya/Modul-3-PHP/master/Screenshot%20(151).png)
+Latihan 6
+![alt text](https://raw.githubusercontent.com/ArdiArya/Modul-3-PHP/master/Screenshot%20(152).png)
+Halaman Login
+![alt text](https://raw.githubusercontent.com/ArdiArya/Modul-3-PHP/master/Screenshot%20(153).png)
+![alt text](https://raw.githubusercontent.com/ArdiArya/Modul-3-PHP/master/Screenshot%20(154).png)
+![alt text](https://raw.githubusercontent.com/ArdiArya/Modul-3-PHP/master/Screenshot%20(155).png)
+![alt text](https://raw.githubusercontent.com/ArdiArya/Modul-3-PHP/master/Screenshot%20(156).png)
+![alt text](https://raw.githubusercontent.com/ArdiArya/Modul-3-PHP/master/Screenshot%20(157).png)
